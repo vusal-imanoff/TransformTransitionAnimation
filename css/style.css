@@ -30,6 +30,7 @@ html{
 }
 .scrool_button i{
     font-size: 25px;
+    color: #265A51;
 }
 .scrool_button:focus{
     scroll-behavior: smooth;
@@ -190,6 +191,8 @@ header ul{
 }
 .second_box_img{
     overflow: hidden;
+    border-radius: 15px;
+
 }
 .second_box img{
     width: 100%;
@@ -419,6 +422,8 @@ width: 40px;
 .fourth_all_box_img{
     overflow: hidden;
     margin-bottom: 30px;
+    border-radius: 15px;
+
 }
 .fourth_all_box img{
     width: 100%;
@@ -432,7 +437,7 @@ width: 40px;
 }
 .sale{
     position: absolute;
-    top: 20px;
+    top: 65px;
     right: 20px;
     border: 1px solid #EA4A34;
     background-color: #EA4A34;
